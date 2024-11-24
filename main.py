@@ -1,14 +1,95 @@
 from llama_index.llms.ollama import Ollama
 from llama_index.core.llms import ChatMessage
+import edge_tts
 
-MARKDOWN_PROMPT= f"""
+PROMPT= f"""
 You are a helpful assistant that is good for spelling tests 
 You are making a spelling test for a child in YEAR 2 so around 6 to 7 years old. 
-You are to GIVE A MARKDOWN STRING AS A RESPONSE 
 
-Create 20 spelling test questions with the following EXACT FORM BELOW FOR EVERY QUESION DO NOT ADD ANYTHING THAT IS NOT IN THE FORM
+The words are to follow this standard 
 
-**Spelling <SPELLING NUMBER>**: The word is <WORD> 
+S1 	the sounds /f/, /l/, /s/, /z/ and /k/ spelt ff, ll, ss, zz and ck
+
+S2 	the ŋ sound spelt n before k
+
+S3 	–tch
+
+S4 	the /v/ sound at the end of words
+
+S5 	adding –s and –es to words (plural of nouns and the third-person singular of verbs)
+
+S6 	adding the endings –ing, –ed and –er to verbs where no change is needed in the root word
+
+S7 	adding –er and –est to adjectives where no change is needed in the root word
+
+S8 	vowel digraphs and trigraphs: ai, oi, ay, oy, a–e, e–e, i–e, o–e, u–e, ar, ee, ea (/i:/), ea (/ɛ/), er (/ɜ:/), er (/ə/), ir, ur, oo (/u:/), oo( ʊ/), oa, oe, ou, ow (/aʊ/), ow (/əʊ/), ue, ew, ie (/aɪ/), ie (/i:/), igh, or, ore, aw, au, air, ear, ear (/ɛə/), are (/ɛə/)
+
+S9 	words ending in –y (/i:/ or /ɪ/)
+
+S10 	new consonant spellings ph and wh
+
+S11 	using k for the /k/ sound
+
+S12 	compound words
+
+
+S13 	the days of the week
+
+S14 	the /dʒ/ sound spelt as –ge and –dge at the end of words, and sometimes spelt as g elsewhere in words before e, i and y
+
+S15 	the /s/ sound spelt c before e, i and y
+
+S16 	the /n/ sound spelt kn– and (less often) gn– at the beginning of words
+
+S17 	the /r/ sound spelt wr– at the beginning of words
+
+S18 	the /l/ or /əl/ sound spelt –le at the end of words
+
+S19 	the /l/ or /əl/ sound spelt –el at the end of words
+
+S20 	the /l/ or /əl/ sound spelt –al at the end of words
+
+S21 	words ending in –il
+
+S22 	the /aɪ/ sound spelt –y at the end of words
+
+S23 	adding –es to nouns and verbs ending in –y
+
+S24 	adding –ed, –ing, –er and est to a root word ending in –y with a consonant before it
+
+S25 	adding the endings –ing, –ed, –er, –est and –y to words ending in –e with a consonant before it
+
+S26 	adding –ing, –ed, –er, –est and –y to words of one syllable ending in a single consonant letter after a single vowel letter
+
+S27 	the /ɔ:/ sound spelt a before l and ll
+
+S28 	the /ʌ/ sound spelt o
+
+S29 	the /i:/ sound spelt ey
+
+S30 	the /ɒ/ sound spelt a after w and qu
+
+S31 	the /ɜ:/ sound spelt or after w
+
+S32 	the /ɔ:/ sound spelt ar after w
+
+S33 	the /ʒ/ sound spelt s
+
+S34 	the suffixes –ment, –ness, –ful, –less and –ly
+
+S35 	words ending in –tion
+
+36 	homophones and near-homophones
+
+S37 	common exception words
+
+YOU MUST NOT REPEAT ANY WORDS FOR THE TEST. THIS IS IMPERATIVE FOR THE VALIDITY OF THE TEST EVERY QUESTION MUST HAVE A UNIQUE WORD. IF YOU GENERATE A WORD ALREADY IN THE TEST DISCARD IT AN MAKE A NEW ONE
+
+Create 20 spelling test questions with the following EXACT FORM BELOW FOR EVERY QUESION DO NOT ADD ANYTHING THAT IS NOT IN THE FORM.
+
+DO NOT ADD ANYTHING BEFORE GIVING THE SPELLING JUST START STRAIGHT AWAY
+
+Spelling <SPELLING NUMBER>: The word is <WORD> 
 
 <SENTENCE WITH WORD> 
 
@@ -145,10 +226,18 @@ response = llm.chat(
         ChatMessage(role="system",content="You are helpful LLM answer in the exact form asked. If you cannot answer say 'Sorry I cannot do this' "),
         ChatMessage(
             role="user", 
-            content=MARKDOWN_PROMPT
+            content=PROMPT
         )
     ]
 )
 
 with open("test.md","w") as f:
     f.write(response.message.content)
+    
+
+print("saved markdown trying to generate audio now")
+VOICE = "en-GB-SoniaNeural"
+OUTPUT_FILE = "test.mp3"
+
+communicate = edge_tts.Communicate(response.message.content, VOICE)
+communicate.save_sync(OUTPUT_FILE)

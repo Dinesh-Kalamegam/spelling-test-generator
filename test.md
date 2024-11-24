@@ -1,117 +1,119 @@
-**Spelling 1**: The word is friend.
+Spelling 1: The word is flake.
 
-I like playing with my best friend.
+She ate a sweet flake cake for breakfast.
 
-The word is friend.
+The word is flake.
 
-**Spelling 2**: The word is happy.
+Spelling 2: The word is fizzle.
 
-My teacher always looks happy in the morning.
+I like playing with toys that fizzle and bubble.
 
-The word is happy.
+The word is fizzle.
 
-**Spelling 3**: The word is pencil.
+Spelling 3: The word is gnat.
 
-She uses a #2 pencil to write her name.
+There were many gnats flying around the garden.
 
-The word is pencil.
+The word is gnat.
 
-**Spelling 4**: The word is sunny.
+Spelling 4: The word is knell.
 
-I like playing outside when it's sunny.
+The church bell began to knell for midnight mass.
 
-The word is sunny.
+The word is knell.
 
-**Spelling 5**: The word is smile.
+Spelling 5: The word is nosh.
 
-My friend will always smile at me when I see her.
+He ate a plate of snacks called nosh before bed.
 
-The word is smile.
+The word is nosh.
 
-**Spelling 6**: The word is teacher.
+Spelling 6: The word is phew.
 
-She helps us learn in class every day.
+I felt a big sigh of relief when the test was over, phew!
 
-The word is teacher.
+The word is phew.
 
-**Spelling 7**: The word is bookshelf.
+Spelling 7: The word is whiff.
 
-I like to read on the big bookshelf.
+She took a whiff of the freshly baked cookies.
 
-The word is bookshelf.
+The word is whiff.
 
-**Spelling 8**: The word is laugh.
+Spelling 8: The word is kelp.
 
-We have a good time when we all laugh together.
+The fishermen pulled in their nets full of seaweed called kelp.
 
-The word is laugh.
+The word is kelp.
 
-**Spelling 9**: The word is happy.
+Spelling 9: The word is swish.
 
-My friend's birthday party was very happy.
+She loved to watch the ballerinas practice their steps, swish and spin.
 
-The word is happy.
+The word is swish.
 
-**Spelling 10**: The word is run.
+Spelling 10: The word is fiddle.
 
-I like to run around in the park with my friends.
+He played a lively tune on his fiddle.
 
-The word is run.
+The word is fiddle.
 
-**Spelling 11**: The word is cloud.
+Spelling 11: The word is juggler.
 
-We see big, fluffy clouds in the sky today.
+He was a skilled juggler who could juggle balls with ease.
 
-The word is cloud.
+The word is juggler.
 
-**Spelling 12**: The word is happy.
+Spelling 12: The word is quiver.
 
-My little brother always looks happy on his birthday.
+Her heart started to quiver when she saw her crush's smile.
 
-The word is happy.
+The word is quiver.
 
-**Spelling 13**: The word is friend.
+Spelling 13: The word is sulk.
 
-I will always be a good friend to my friend.
+She wouldn't speak to him until he apologized and stopped sulking.
 
-The word is friend.
+The word is sulk.
 
-**Spelling 14**: The word is bike.
+Spelling 14: The word is twirl.
 
-I love riding my new bike every day.
+The ballerina twirled across the stage, her skirt flying around her.
 
-The word is bike.
+The word is twirl.
 
-**Spelling 15**: The word is smile.
+Spelling 15: The word is whizz.
 
-My brother makes me smile with his silly jokes.
+He loved his new bike that whizzed down the hill with ease.
 
-The word is smile.
+The word is whizz.
 
-**Spelling 16**: The word is house.
+Spelling 16: The word is zest.
 
-We are going to our house for the weekend.
+She added a squeeze of lemon zest to her favorite recipe.
 
-The word is house.
+The word is zest.
 
-**Spelling 17**: The word is laugh.
+Spelling 17: The word is snare.
 
-I love laughing at my favorite cartoon show.
+The hunter carefully set up a trap to catch a deer, a snare hidden in the woods.
 
-The word is laugh.
+The word is snare.
 
-**Spelling 18**: The word is happy.
+Spelling 18: The word is wail.
 
-My family always looks happy on holidays.
+She heard the sound of sirens wailing outside her window.
 
-The word is happy.
+The word is wail.
 
-**Spelling 19**: The word is friend.
+Spelling 19: The word is shiver.
 
-You are a good friend to play with me every day.
+He felt a chill run down his spine as he walked through the haunted house, shiver.
 
-The word is friend.
+The word is shiver.
 
-**Spelling 20**: The word is smile.
+Spelling 20: The word is flume.
 
-I love making silly faces and smiling at my friends.
+The water rushed over the dam, creating a massive flume that filled the pool.
+
+The word is flume.

@@ -208,6 +208,19 @@ wheels = [
 ]
 
 [[package]]
+name = "edge-tts"
+version = "6.1.19"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "aiohttp" },
+    { name = "certifi" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/2b/81/58663476b9afe5ae7f28767d6cadffbf30ed99063a219e213edacecb841b/edge_tts-6.1.19.tar.gz", hash = "sha256:52fdfbaef2b3afee98bbba5e5c6365b5a6156fe78fe4e81e55749f7a563add38", size = 20131 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/52/8d/6b91e2efa7e6f2438888142a66ff053e2bc301b8eddd3cb0fd2452644890/edge_tts-6.1.19-py3-none-any.whl", hash = "sha256:af49ea0539f54b0d76a73bc76cefd9deb2010a11c5ee2a189967e15830a6ba37", size = 22125 },
+]
+
+[[package]]
 name = "filetype"
 version = "1.2.0"
 source = { registry = "https://pypi.org/simple" }
@@ -773,11 +786,15 @@ name = "spelling-test"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "edge-tts" },
     { name = "llama-index-llms-ollama" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "llama-index-llms-ollama", specifier = ">=0.3.6" }]
+requires-dist = [
+    { name = "edge-tts", specifier = ">=6.1.19" },
+    { name = "llama-index-llms-ollama", specifier = ">=0.3.6" },
+]
 
 [[package]]
 name = "sqlalchemy"
