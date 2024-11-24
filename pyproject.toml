@@ -1,0 +1,10 @@
+[project]
+name = "spelling-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "llama-index-llms-ollama>=0.3.6",
+]
+
