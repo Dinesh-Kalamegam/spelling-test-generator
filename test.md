@@ -1,119 +1,119 @@
-Spelling 1: The word is flake.
+I'll create 20 spelling test questions according to the given format. Here they are:
 
-She ate a sweet flake cake for breakfast.
+Spelling 1: The word is flicker.
 
-The word is flake.
+The lights in the room started to flicker.
 
-Spelling 2: The word is fizzle.
+The word is flicker.
 
-I like playing with toys that fizzle and bubble.
+Spelling 2: The word is zesty.
 
-The word is fizzle.
+My favourite drink is very zesty.
 
-Spelling 3: The word is gnat.
+The word is zesty.
 
-There were many gnats flying around the garden.
+Spelling 3: The word is knack.
 
-The word is gnat.
+I found a small metal thing that had a good knack for holding things together.
 
-Spelling 4: The word is knell.
+The word is knack.
 
-The church bell began to knell for midnight mass.
+Spelling 4: The word is gnaw.
 
-The word is knell.
+The squirrel starts to gnaw on the tree bark.
 
-Spelling 5: The word is nosh.
+The word is gnaw.
 
-He ate a plate of snacks called nosh before bed.
+Spelling 5: The word is whiff.
 
-The word is nosh.
-
-Spelling 6: The word is phew.
-
-I felt a big sigh of relief when the test was over, phew!
-
-The word is phew.
-
-Spelling 7: The word is whiff.
-
-She took a whiff of the freshly baked cookies.
+She could smell something tasty when she took a whiff of air from outside.
 
 The word is whiff.
 
-Spelling 8: The word is kelp.
+Spelling 6: The word is ketchup.
 
-The fishermen pulled in their nets full of seaweed called kelp.
+My mum puts ketchup on her sandwich.
 
-The word is kelp.
+The word is ketchup.
 
-Spelling 9: The word is swish.
+Spelling 7: The word is sleet.
 
-She loved to watch the ballerinas practice their steps, swish and spin.
+The weather forecast said it might be snowy and then there could be sleet.
 
-The word is swish.
+The word is sleet.
 
-Spelling 10: The word is fiddle.
+Spelling 8: The word is flake.
 
-He played a lively tune on his fiddle.
+The ice cream made a nice flake that stuck to my tongue.
 
-The word is fiddle.
+The word is flake.
 
-Spelling 11: The word is juggler.
+Spelling 9: The word is gnat.
 
-He was a skilled juggler who could juggle balls with ease.
+My brother tries to swat away the annoying little fly which is actually a gnat.
 
-The word is juggler.
+The word is gnat.
 
-Spelling 12: The word is quiver.
+Spelling 10: The word is nuke.
 
-Her heart started to quiver when she saw her crush's smile.
+There was a warning message saying do not nuke your brain with too many computers.
+
+The word is nuke.
+
+Spelling 11: The word is knave.
+
+He thought he could trick the other players but it turned out to be a great deception by a clever knave.
+
+The word is knave.
+
+Spelling 12: The word is peeve.
+
+She has a small thing that she can't stop thinking about which really makes her peeve.
+
+The word is peeve.
+
+Spelling 13: The word is awe.
+
+As I watched the sunset, I felt an overwhelming sense of awe.
+
+The word is awe.
+
+Spelling 14: The word is phantasm.
+
+In my favourite fantasy story there was a magical creature that appeared in a ghostly phantasm.
+
+The word is phantasm.
+
+Spelling 15: The word is quixotic.
+
+His adventurous nature made him quite quixotic and unpredictable.
+
+The word is quixotic.
+
+Spelling 16: The word is whir.
+
+The helicopter blades started to make a loud whir as they spun round the main body of the machine.
+
+The word is whir.
+
+Spelling 17: The word is awry.
+
+He tried but ended up making his favourite puzzle slightly awry which really upset him.
+
+The word is awry.
+
+Spelling 18: The word is cliche.
+
+She thought the slogan was just a tired old cliche and wanted something more original to say.
+
+The word is cliche.
+
+Spelling 19: The word is quiver.
+
+My hand started to quiver with fear when I saw the snake coming towards me.
 
 The word is quiver.
 
-Spelling 13: The word is sulk.
+Spelling 20: The word is geese.
 
-She wouldn't speak to him until he apologized and stopped sulking.
-
-The word is sulk.
-
-Spelling 14: The word is twirl.
-
-The ballerina twirled across the stage, her skirt flying around her.
-
-The word is twirl.
-
-Spelling 15: The word is whizz.
-
-He loved his new bike that whizzed down the hill with ease.
-
-The word is whizz.
-
-Spelling 16: The word is zest.
-
-She added a squeeze of lemon zest to her favorite recipe.
-
-The word is zest.
-
-Spelling 17: The word is snare.
-
-The hunter carefully set up a trap to catch a deer, a snare hidden in the woods.
-
-The word is snare.
-
-Spelling 18: The word is wail.
-
-She heard the sound of sirens wailing outside her window.
-
-The word is wail.
-
-Spelling 19: The word is shiver.
-
-He felt a chill run down his spine as he walked through the haunted house, shiver.
-
-The word is shiver.
-
-Spelling 20: The word is flume.
-
-The water rushed over the dam, creating a massive flume that filled the pool.
-
-The word is flume.
+A group of noisy birds flew overhead but were actually a flock of curious geese.
