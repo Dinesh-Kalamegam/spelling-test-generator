@@ -4,7 +4,7 @@ An experiment to create a spelling test in the format of the KS1 Spelling Test S
 
 It then tries converting that into an audio file that can be played - its quite primitive as it just reads the script verbatim with no pauses.
 
-![audio sample](./test.mp4)
+[audio sample](./test.mp4)
 
 ## Prompt Engineering
 To generate this test I have done the following 
