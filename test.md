@@ -1,119 +1,121 @@
-I'll create 20 spelling test questions according to the given format. Here they are:
+I'm ready to create the spelling test questions. Here are the 20 questions:
 
-Spelling 1: The word is flicker.
+Spelling 1: The word is whistle.
 
-The lights in the room started to flicker.
+I love playing with my favorite whistle.
 
-The word is flicker.
+The word is whistle.
 
-Spelling 2: The word is zesty.
+Spelling 2: The word is clock.
 
-My favourite drink is very zesty.
+My mom always sets the clock on the wall.
 
-The word is zesty.
+The word is clock.
 
-Spelling 3: The word is knack.
+Spelling 3: The word is stingy.
 
-I found a small metal thing that had a good knack for holding things together.
+She was a bit stingy with her friends.
 
-The word is knack.
+The word is stingy.
 
-Spelling 4: The word is gnaw.
+Spelling 4: The word is chunk.
 
-The squirrel starts to gnaw on the tree bark.
+He ate his favorite food, which was in chunks.
 
-The word is gnaw.
+The word is chunk.
 
-Spelling 5: The word is whiff.
+Spelling 5: The word is pocket.
 
-She could smell something tasty when she took a whiff of air from outside.
+I found my phone in the pocket of my jeans.
 
-The word is whiff.
+The word is pocket.
 
-Spelling 6: The word is ketchup.
+Spelling 6: The word is riddle.
 
-My mum puts ketchup on her sandwich.
+She loved solving the tricky riddle.
 
-The word is ketchup.
+The word is riddle.
 
-Spelling 7: The word is sleet.
+Spelling 7: The word is knick.
 
-The weather forecast said it might be snowy and then there could be sleet.
+Her silver necklace was a beautiful knick.
 
-The word is sleet.
+The word is knick.
 
-Spelling 8: The word is flake.
+Spelling 8: The word is vial.
 
-The ice cream made a nice flake that stuck to my tongue.
+He drank from a small vial of medicine.
+
+The word is vial.
+
+Spelling 9: The word is flake.
+
+Snowflakes gently fell on my face.
 
 The word is flake.
 
-Spelling 9: The word is gnat.
+Spelling 10: The word is geese.
 
-My brother tries to swat away the annoying little fly which is actually a gnat.
+We saw many geese flying in the sky.
 
-The word is gnat.
+The word is geese.
 
-Spelling 10: The word is nuke.
+Spelling 11: The word is sneeze.
 
-There was a warning message saying do not nuke your brain with too many computers.
+She let out a big sneeze when she got excited.
 
-The word is nuke.
+The word is sneeze.
 
-Spelling 11: The word is knave.
+Spelling 12: The word is pail.
 
-He thought he could trick the other players but it turned out to be a great deception by a clever knave.
+He filled up his pail with fresh water.
 
-The word is knave.
+The word is pail.
 
-Spelling 12: The word is peeve.
+Spelling 13: The word is flossy.
 
-She has a small thing that she can't stop thinking about which really makes her peeve.
+Her hair was very flossy and curly.
 
-The word is peeve.
+The word is flossy.
 
-Spelling 13: The word is awe.
+Spelling 14: The word is whiff.
 
-As I watched the sunset, I felt an overwhelming sense of awe.
+He sniffed the freshly cut grass, but only got a tiny whiff.
 
-The word is awe.
+The word is whiff.
 
-Spelling 14: The word is phantasm.
+Spelling 15: The word is twine.
 
-In my favourite fantasy story there was a magical creature that appeared in a ghostly phantasm.
+She used twine to tie her shoelaces.
 
-The word is phantasm.
+The word is twine.
 
-Spelling 15: The word is quixotic.
+Spelling 16: The word is snare.
 
-His adventurous nature made him quite quixotic and unpredictable.
+The hunter carefully put up a trap, or snare, for the deer.
 
-The word is quixotic.
+The word is snare.
 
-Spelling 16: The word is whir.
+Spelling 17: The word is dawdle.
 
-The helicopter blades started to make a loud whir as they spun round the main body of the machine.
+I don't want to waste time, so I won't dawdle any longer.
 
-The word is whir.
+The word is dawdle.
 
-Spelling 17: The word is awry.
+Spelling 18: The word is peal.
 
-He tried but ended up making his favourite puzzle slightly awry which really upset him.
+The church bell began to peal in the distance.
 
-The word is awry.
+The word is peal.
 
-Spelling 18: The word is cliche.
+Spelling 19: The word is raze.
 
-She thought the slogan was just a tired old cliche and wanted something more original to say.
+We had to raze the old building to make way for a new one.
 
-The word is cliche.
+The word is raze.
 
-Spelling 19: The word is quiver.
+Spelling 20: The word is pore.
 
-My hand started to quiver with fear when I saw the snake coming towards me.
+Her skin was very prone to getting pores and acne.
 
-The word is quiver.
-
-Spelling 20: The word is geese.
-
-A group of noisy birds flew overhead but were actually a flock of curious geese.
+The word is pore.
