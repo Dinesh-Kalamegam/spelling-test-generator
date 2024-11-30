@@ -239,7 +239,7 @@ with open("test.md","w") as f:
 
 print("saved markdown trying to generate audio now")
 VOICE = "en-GB-SoniaNeural"
-OUTPUT_FILE = "test.mp3"
+OUTPUT_FILE = "test.mp4"
 
 communicate = edge_tts.Communicate(response.message.content, VOICE)
 communicate.save_sync(OUTPUT_FILE)

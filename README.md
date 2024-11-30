@@ -4,10 +4,7 @@ An experiment to create a spelling test in the format of the KS1 Spelling Test S
 
 It then tries converting that into an audio file that can be played - its quite primitive as it just reads the script verbatim with no pauses.
 
-<audio controls>
-  <source src="./test.mp3" type="audio/mp3">
-  Your browser does not support the audio element.
-</audio>
+![audio sample](./test.mp4)
 
 ## Prompt Engineering
 To generate this test I have done the following 
@@ -51,4 +48,4 @@ Running the script produces two files
 
 - `test.md` for a written transcript of the spelling test 
 
-- `test.mp3` for an audio version of the test. The contents of `test.md` is read verbatim
+- `test.mp4` for an audio version of the test. The contents of `test.md` is read verbatim
