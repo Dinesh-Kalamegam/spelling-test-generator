@@ -4,7 +4,10 @@ An experiment to create a spelling test in the format of the KS1 Spelling Test S
 
 It then tries converting that into an audio file that can be played - its quite primitive as it just reads the script verbatim with no pauses.
 
-[audio sample](./test.mp4)
+
+https://github.com/user-attachments/assets/ecfd603b-9aa8-4e30-b771-b0cb4fc58fba
+
+
 
 ## Prompt Engineering
 To generate this test I have done the following 
