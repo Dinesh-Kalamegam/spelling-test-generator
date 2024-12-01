@@ -2,7 +2,7 @@ from llama_index.llms.ollama import Ollama
 from llama_index.core.llms import ChatMessage
 import edge_tts
 
-PROMPT= f"""
+PROMPT = """
 You are a helpful assistant that is good for spelling tests 
 You are making a spelling test for a child in YEAR 2 so around 6 to 7 years old. 
 
@@ -190,19 +190,19 @@ The word is usual.
 llm = Ollama(model="llama3.2")
 print("Asking LLM to generate the spelling test")
 response = llm.chat(
-    [   
-        ChatMessage(role="system",content="You are helpful LLM answer in the exact form asked. If you cannot answer say 'Sorry I cannot do this' "),
+    [
         ChatMessage(
-            role="user", 
-            content=PROMPT
-        )
+            role="system",
+            content="You are helpful LLM answer in the exact form asked. If you cannot answer say 'Sorry I cannot do this' ",
+        ),
+        ChatMessage(role="user", content=PROMPT),
     ]
 )
 
 print("Saving test to markdown test.md")
-with open("test.md","w") as f:
+with open("test.md", "w") as f:
     f.write(response.message.content)
-    
+
 
 print("Saved markdown trying to generate audio now")
 VOICE = "en-GB-SoniaNeural"
