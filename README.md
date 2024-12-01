@@ -5,12 +5,12 @@ An experiment to create a spelling test in the format of the KS1 Spelling Test S
 It then tries converting that into an audio file that can be played - its quite primitive as it just reads the script verbatim with no pauses.
 
 
-https://github.com/user-attachments/assets/ecfd603b-9aa8-4e30-b771-b0cb4fc58fba
+https://github.com/user-attachments/assets/76d2cd93-6fcb-4029-9037-ad95ac2be08f
 
 
 
 ## Prompt Engineering
-To generate this test I have done the following 
+To generate this test I have done the following: The LLM sometimes ignores the some of the commands though so its not perfect.
 
 - Shoved the KS1 SATs Content Domain for spelling from the [Gov UK Website](https://www.gov.uk/government/publications/key-stage-1-english-grammar-punctuation-and-spelling-test-framework/key-stage-1-english-grammar-punctuation-and-spelling-test-framework#content-domain) into the prompt to get the right type of words 
 
@@ -20,7 +20,9 @@ To generate this test I have done the following
 
 - Explictly tell it not to use compound words for the sentences and to keep the sentences in context and be age appropriate
 
-- Explicitly tell it to not give anything other than the spelling test - this command tends to get ignored though
+- Explictly tell it not to use different forms of the word in the sentence
+
+- Explicitly tell it to not give anything other than the spelling test 
 
 ## Requirements 
 
